@@ -1,0 +1,38 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<passageiros>
+	<passageiro>
+		<nome>Nicole</nome>
+		<idade>18</idade>
+		<numero>2004</numero>
+		<origem>Campina Grande</origem>
+		<destino>João Pessoa</destino>
+	</passageiro>
+	<passageiro>
+		<nome>Larry</nome>
+		<idade>28</idade>
+		<numero>1994</numero>
+		<origem>Campina Grande</origem>
+		<destino>Toronto</destino>
+	</passageiro>
+	<passageiro>
+		<nome>Thiago</nome>
+		<idade>21</idade>
+		<numero>2002</numero>
+		<origem>Campina Grande</origem>
+		<destino>São Paulo</destino>
+	</passageiro>
+	<passageiro>
+		<nome>Lincoln</nome>
+		<idade>22</idade>
+		<numero>2000</numero>
+		<origem>Campina Grande</origem>
+		<destino>Areia</destino>
+	</passageiro>
+	<passageiro>
+		<nome>Theo</nome>
+		<idade>8</idade>
+		<numero>2015</numero>
+		<origem>Campina Grande</origem>
+		<destino>Patos</destino>
+	</passageiro>
+</passageiros>
